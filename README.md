@@ -1,6 +1,8 @@
 Machine Learning Method for Learning SMD Solvation Model
 
+
 ![image](https://github.com/Xundrug/MolSolv/blob/master/images/NN-Solvation-workflow.png)
+
 
 ## Requirements
 
