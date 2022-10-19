@@ -48,3 +48,6 @@ optional arguments:
                         prediction
   --output OUTPUT       the output file name
 ```
+
+Or you can access the web server of MolSolv, [url](http://tinyboat.xundrug.cn/)
+
