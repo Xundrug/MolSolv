@@ -49,5 +49,5 @@ optional arguments:
   --output OUTPUT       the output file name
 ```
 
-Or you can access the web server of MolSolv--[URL](http://tinyboat.xundrug.cn/)
+Or you can access the web server of MolSolv--[URL](http://molsolv.xundrug.cn/)
 
