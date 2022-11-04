@@ -172,6 +172,8 @@ def calc_descriptors( pmol, idx, dmatrix):
     angular_fp = angular_symmetry.calc_symmetry()
     
     ani_descriptors = radial_fp + angular_fp
+    print(len(radial_fp))
+    print(len(angular_fp))
     return ani_descriptors
 
 

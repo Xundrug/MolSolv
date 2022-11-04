@@ -1,4 +1,4 @@
-Machine Learning Method for Learning SMD Solvation Model
+MolSolv: An AI-based model for aqueous solvation energy prediction.
 
 
 ![image](https://github.com/Xundrug/MolSolv/blob/master/images/NN-Solvation-workflow.png)
